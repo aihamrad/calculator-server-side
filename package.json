@@ -1,0 +1,15 @@
+{
+  "name": "calculator-server-side",
+  "version": "1.0.0",
+  "description": "simple calculator",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "author": "Aiham Radwan",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
